@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="final_akshat.java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/final_akshat_java_jar</output-path>
+    <root id="archive" name="final_akshat.java.jar">
+      <element id="module-output" name="final_akshat.java" />
+    </root>
+  </artifact>
+</component>
